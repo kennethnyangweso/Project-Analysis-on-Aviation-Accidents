@@ -32,10 +32,10 @@ Top 3 aircraft makes and models and how their correlation have impacted aviation
 The trend of aviation accidents over the past decades
 
 Here are some of the visualizations I used for my analysis:
-[alt text](<make vs accidents.png>)
-[alt text](<model vs accidents-1.png>)
-[alt text](<phase of flight vs accidents.png>)
-[alt text](<Yearly accidents.png>)
+[make vs accident](<make vs accidents.png>)
+[model vs accident](<model vs accidents-1.png>)
+[phase of flight vs accident](<phase of flight vs accidents.png>)
+[yearly trends](<Yearly accidents.png>)
 
 CONCLUSION
 
